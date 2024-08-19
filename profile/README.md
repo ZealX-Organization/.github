@@ -16,7 +16,9 @@ Trusix still has a long way to go. We are almost 75% done with making of the mod
 
 
 Dependencies: <br>
+
 <b>Note:</b> All install commands are for Windows only!, for other OS/s, please check the install instructions for that specific OS of that specifc python module
+
 1.) numpy - pip install numpy/pip3 install numpy<br>
 2.) librosa - pip install librosa/pip3 install librosa<br>
 3.) scipy  - pip install scipy/pip3 install scipy<br>
