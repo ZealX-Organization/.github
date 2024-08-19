@@ -15,7 +15,8 @@ Trusix is an audio analytical model framework repository; being made by organisa
 Trusix still has a long way to go. We are almost 75% done with making of the model. Once making of the model is done, we need to make a way so that users can access our work. Hence, a website is supposed to be made so that it can be easily accessed. Also, the model needs good amount of processing power no matter how much we try to reduce it and also for the hosting of website and management of the website, we need some specific amount of money so in total we at least need $5000. To get this much, our best option is to use our model in such a way that, we produce audio and post it online and also sell the audio generated to people who might need it. This money would be earned while the website and improvement of model is being done. Once all of this is done, we finally put it online and advertise it.
 
 
-Dependencies(For Windows, for other OS, please check the install instructions for that specific OS of that specifc Python Module): <br>
+Dependencies: <br>
+<b>Note:</b> All install commands are for Windows only!, for other OS/s, please check the install instructions for that specific OS of that specifc python module
 1.) numpy - pip install numpy/pip3 install numpy<br>
 2.) librosa - pip install librosa/pip3 install librosa<br>
 3.) scipy  - pip install scipy/pip3 install scipy<br>
