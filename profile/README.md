@@ -1,3 +1,5 @@
+<h1>About Us:</h1>
+
 <b>ZealX Organization</b> is a community of people with the greatest minds in AI and technology.
 
 
