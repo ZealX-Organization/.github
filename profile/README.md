@@ -30,7 +30,11 @@ Dependencies:<br>
 9.) glob - no install needed<br>
 10.) matplotlib - pip install matpolib/pip3 install matpolib<br>
 11.) PIL - no install needed<br>
-12.) cv2 - pip install needed<br><br>
+12.) cv2 - pip install needed<br>
+
+
+<h1>Join Us!</h1>
+https://discord.gg/dBGvV8Sk<br>
 
 
 <h3>(Rest of the readme would be written as the project goes forward...)</h3>
