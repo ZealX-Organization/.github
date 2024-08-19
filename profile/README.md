@@ -15,19 +15,19 @@ Trusix is an audio analytical model framework repository; being made by organisa
 Trusix still has a long way to go. We are almost 75% done with making of the model. Once making of the model is done, we need to make a way so that users can access our work. Hence, a website is supposed to be made so that it can be easily accessed. Also, the model needs good amount of processing power no matter how much we try to reduce it and also for the hosting of website and management of the website, we need some specific amount of money so in total we at least need $5000. To get this much, our best option is to use our model in such a way that, we produce audio and post it online and also sell the audio generated to people who might need it. This money would be earned while the website and improvement of model is being done. Once all of this is done, we finally put it online and advertise it.
 
 
-Dependencies: 
-1.) numpy - pip install numpy/pip3 install numpy
-2.) librosa - pip install librosa/pip3 install librosa
-3.) scipy  - pip install scipy/pip3 install scipy
-4.) skimage - pip install skimage/pip3 install skimage
-5.) wave - pip install wave/ pip3 install wave
-6.) soundfile - pip install soundfile/pip3 install soundfile
-7.) audioread - pip install audioread/pip3 install audioread
-8.) subprocess - no install needed
-9.) glob - no install needed
-10.) matplotlib - pip install matpolib/pip3 install matpolib
-11.) PIL - no install needed
-12.) cv2 - pip install needed
+Dependencies: <br>
+1.) numpy - pip install numpy/pip3 install numpy<br>
+2.) librosa - pip install librosa/pip3 install librosa<br>
+3.) scipy  - pip install scipy/pip3 install scipy<br>
+4.) skimage - pip install skimage/pip3 install skimage<br>
+5.) wave - pip install wave/ pip3 install wave<br>
+6.) soundfile - pip install soundfile/pip3 install soundfile<br>
+7.) audioread - pip install audioread/pip3 install audioread<br>
+8.) subprocess - no install needed<br>
+9.) glob - no install needed<br>
+10.) matplotlib - pip install matpolib/pip3 install matpolib<br>
+11.) PIL - no install needed<br>
+12.) cv2 - pip install needed<br>
 
 
 <h3>(Rest of the readme would be written as the project goes forward...)</h3>
