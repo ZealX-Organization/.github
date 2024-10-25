@@ -34,7 +34,7 @@ Dependencies:<br>
 
 
 <h1>Join Us!</h1>
-[https://discord.gg/dBGvV8Sk](https://discord.gg/vTKj8xzP)<br>
+https://discord.gg/vTKj8xzP<br>
 
 
 <h3>(Rest of the readme would be written as the project goes forward...)</h3>
